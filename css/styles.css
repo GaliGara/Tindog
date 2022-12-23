@@ -111,7 +111,7 @@ p{
     right: 24%;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1280px) {
     .title-img{
         position: static;
         transform: none;
